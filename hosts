@@ -14,20 +14,15 @@ ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
 
-0.0.0.0 http://windowsupdate.microsoft.com
-0.0.0.0 http://*.windowsupdate.microsoft.com
-0.0.0.0 https://*.windowsupdate.microsoft.com
-0.0.0.0 http://*.update.microsoft.com
-0.0.0.0 https://*.update.microsoft.com
-0.0.0.0 http://*.windowsupdate.com
-0.0.0.0 http://download.windowsupdate.com
-0.0.0.0 https://download.microsoft.com
-0.0.0.0 http://*.download.windowsupdate.com
+0.0.0.0 windowsupdate.microsoft.com
+0.0.0.0 update.microsoft.com
+0.0.0.0 windowsupdate.com
+0.0.0.0 download.windowsupdate.com
+0.0.0.0 download.microsoft.com
 0.0.0.0 test.stats.update.microsoft.com
 0.0.0.0 ntservicepack.microsoft.com
 0.0.0.0 wustat.windows.com
-0.0.0.0 http://*.microsoft.com
-0.0.0.0 https://*.microsoft.com
+0.0.0.0 microsoft.com
 0.0.0.0 ads.msn.com
 0.0.0.0 ads1.msads.net
 0.0.0.0 ads1.msn.com
